@@ -1,4 +1,4 @@
 title: Andi
-icon: https://andisearch.com/favicon.ico
+icon: andi.ico
 url: https://andisearch.com/?q={searchTerms}
 default: true
