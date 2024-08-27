@@ -1,0 +1,4 @@
+title: Andi
+icon: https://andisearch.com/favicon.ico
+url: https://andisearch.com/?q={searchTerms}
+default: true
